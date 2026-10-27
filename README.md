@@ -39,8 +39,8 @@ The project uses United States emissions data for 2023.
 us-emissions-dashboard-2023/
 ├── README.md
 ├── screenshots/
-│   ├── emissions-dashboard-top.png
-    └── emissions-dashboard-bottom.png
+│   ├── Dashboard_1.png
+    └── Dashboard_2.png
 
 ## Key Learning Outcomes
 
